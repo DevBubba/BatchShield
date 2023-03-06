@@ -66,7 +66,7 @@ Simple And Easy Batch Obfuscator Made In Python V3.11.2 For Your Daily Use With 
 
 ## ⚠️ Bugs Or Errors?
 
--   Make An [issue](https://github.com/DevBubba/Batch-Obfuscator/issues)
+-   Make An [Issue](https://github.com/DevBubba/Batch-Obfuscator/issues)
 -   Join The [Discord](https://discord.gg/) **Discord Invite Is Invalid Untill I Can Make An Offical Discord Server**
 
 
