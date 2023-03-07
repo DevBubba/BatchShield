@@ -20,15 +20,15 @@ Simple And Easy Batch Obfuscator Made In Python V3.11.2 For Your Daily Use With 
 
 ## <a id="content"></a>🌐 〢 Table Of Contents
 
-- [📖 〢 Description](#description)
-- [🔰 〢 Features](#features)
-- [🔗 〢 Discord](https://discord.gg)
-- [📥 〢 Install](#install)
-  - [💻 〢 Prerequisites](#prerequisites)
-  - [⚙ 〢 Setup](#setup)
-- [📷 〢 Preview](#preview)
-- [⚠️ 〢 Bugs Or Errors](#bugsorerrors)
-- [🧾 〢 Lisence](#lisence)
+- **[📖 〢 Description](#description)**
+- **[🔰 〢 Features](#features)**
+- **[🔗 〢 Discord](https://discord.gg)**
+- **[📥 〢 Install](#install)**
+  - **[💻 〢 Prerequisites](#prerequisites)**
+  - **[⚙ 〢 Setup](#setup)**
+- **[📷 〢 Preview](#preview)**
+- **[⚠️ 〢 Bugs Or Errors](#bugsorerrors)**
+- **[🧾 〢 Lisence](#lisence)**
 
 
 ## <a id="features"></a> 🔰 〢 Features
