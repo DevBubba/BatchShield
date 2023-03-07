@@ -81,8 +81,8 @@ Simple And Easy Batch Obfuscator Made In Python V3.11.2 For Your Daily Use With 
 
 ## <a id="bugsorerrors"></a> ⚠️ Bugs Or Errors?
 
--   To Report An Error Make An [Issue](https://github.com/DevBubba/Batch-Obfuscator/issues)
--   Or Join The [Discord](https://discord.gg/) **Discord Invite Is Invalid Untill I Can Make An Offical Discord Server**
+-   To Report An Error Make An **[Issue](https://github.com/DevBubba/Batch-Obfuscator/issues)**
+-   Or Join The **[Discord](https://discord.gg/)** Discord Invite Is Invalid Untill I Can Make An Offical Discord Server
 
 
 ## 🧾 <a id="lisence"></a> License
