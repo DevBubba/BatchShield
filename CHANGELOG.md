@@ -3,14 +3,13 @@
 All Notable Changes To The Batch-Obfuscator (This Project) Will Be Documented In This File
 
 
-
 ## 🔒 [Batch-Obfuscator V2.0](https://github.com/DevBubba/Batch-Obfuscator) - 2023-03-08
 
 
 ### ➕ Added
 
-- Added `main.py` Banner And Fire Theme With Colored Prompts From original Banner
-- Auto Deletes Install Batch File `(.bat)` To Ensure That No Other Batch Files Are Reconized By The Batch Obfuscator
+- Added `main.py` Banner And Fire Theme With Colored Prompts From the original Banner
+- Auto Deletes Install Batch File `(.bat)` To Ensure That No Other Batch Files Are Recognized By The Batch Obfuscator
 - Allow Custom Path To Batch File `(.bat)`
 - Auto Detect Batch File `(.bat)`
 
