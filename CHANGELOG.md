@@ -1,6 +1,6 @@
 # 📚 〢 Batch Obfuscator Changelog
 
-All Notable Changes To The Batch-Obfuscator (This Project) Will Be Documented In This File
+All Notable Changes To Batch-Obfuscator (This Project) Will Be Documented In This File
 
 
 ## 🔒 [Batch-Obfuscator V2.0](https://github.com/DevBubba/Batch-Obfuscator/releases/tag/V2.0) - 2023-03-08
