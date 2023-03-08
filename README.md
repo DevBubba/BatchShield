@@ -29,6 +29,7 @@
   - **[💻 〢 Prerequisites](#prerequisites)**
   - **[⚙ 〢 Setup](#setup)**
 - **[📷 〢 Preview](#preview)**
+- **[📚 〢 Changelog](#changelog)**
 - **[⚠️ 〢 Bugs Or Errors](#bugsorerrors)**
 - **[🧾 〢 Lisence](#lisence)**
 
@@ -79,6 +80,11 @@
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/ThirdPreview.png"></img>
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%"> 
 </div>
+
+
+## <a id="changelog"></a> 📚 〢 Changelog 
+
+All Notable Changes To Batch-Obfuscator (This Project) Will Be Documented In This [File](https://github.com/DevBubba/Batch-Obfuscator/blob/main/CHANGELOG.md)
 
 
 ## <a id="bugsorerrors"></a> ⚠️ Bugs Or Errors?
