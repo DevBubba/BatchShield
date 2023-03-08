@@ -40,7 +40,7 @@
 - `Auto Detect Batch File (.bat)`🟢
 - `Custom Obfuscated Batch File Name (.bat)`🟡
 - `Custom Obfuscated Batch File Name (.bat)`🟡
-- `Exe Version Of The Batch Obfuscator `🟡
+- `Exe (Executable File) Version Of The Batch Obfuscator (Compiled Version) `🟡
 - `Multiple Obfuscation Choices`🟡
 - `Auto Update`🟡
 - `Obfuscates More Than Just Batch Files`🔴
