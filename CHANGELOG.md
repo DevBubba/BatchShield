@@ -3,7 +3,7 @@
 All Notable Changes To The Batch-Obfuscator (This Project) Will Be Documented In This File
 
 
-## 🔒 [Batch-Obfuscator V2.0](https://github.com/DevBubba/Batch-Obfuscator) - 2023-03-08
+## 🔒 [Batch-Obfuscator V2.0](https://github.com/DevBubba/Batch-Obfuscator/releases/tag/V2.0) - 2023-03-08
 
 ### Simple And Easy Batch Obfuscator Made In Python V3.11.2 For Your Daily Use With Batch To Just Make Things Easy On Yourself Making Sure The Real Code Is Hidden From Skids Or Anyone Else Using Your Batch Script!
 
