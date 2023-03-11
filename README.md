@@ -38,10 +38,10 @@
 
 - `Auto Deletes Install Batch File (.bat) To Ensure That No Other Batch Files Are Reconized By The Batch Obfuscator`🟢
 - `Allow Custom Path To Batch File (.bat)`🟢
-- 1`Auto Checks If All Required Modules Are Installed`🟢
+- `Auto Checks If All Required Modules Are Installed`🟢
 - `Auto Detect Batch File (.bat)`🟢
 - `Multiple Obfuscation Choices`🟢
-- `Custom Obfuscated Batch File Name `(.bat)` (Output File Name)`🟡
+- `Custom Obfuscated Batch File Name (.bat) (Output File Name)`🟡
 - `Exe (Executable File) Version Of The Batch Obfuscator (Compiled Version)`🟡
 - `Choose File AutoDetect Has Found`🟡
 - `Fix Obfuscation Method 2's Bugs`🟡
