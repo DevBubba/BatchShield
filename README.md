@@ -24,7 +24,7 @@
 
 - **[📖 〢 Description](#description)**
 - **[🔰 〢 Features](#features)**
-- **[🔗 〢 Discord](https://discord.gg)**
+- **[🔗 〢 Discord](https://discord.gg/6qAvAephsW)**
 - **[📥 〢 Install](#install)**
   - **[💻 〢 Prerequisites](#prerequisites)**
   - **[⚙ 〢 Setup](#setup)**
@@ -90,7 +90,7 @@ All Notable Changes To Batch-Obfuscator (This Project) Will Be Documented In Thi
 ## <a id="bugsorerrors"></a> ⚠️ Bugs Or Errors?
 
 -   To Report An Error Make An **[Issue](https://github.com/DevBubba/Batch-Obfuscator/issues)**
--   Or Join The **[Discord](https://discord.gg/)** Discord Invite Is Invalid Untill I Can Make An Offical Discord Server
+-   Or Join The **[Discord](https://discord.gg/6qAvAephsW)**
 
 
 ## 🧾 <a id="lisence"></a> License
