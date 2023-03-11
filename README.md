@@ -66,7 +66,7 @@
 4. Run `install.bat` To Install The Required Requirements For The Batch Obfuscator To Function Properly
 5. If The Installer Doesnt Workproperly Or Doesnt Install The Requirements Needed For The Batch Obfuscator A Fix To This Can Be Executing This Command `pip install -r requirements.txt` Which Can Be An Alternate Way To Install The Requirements Properly
 6. After The Installer Is Finished And You Are Prompted With `Succsesfully Installed Requirements` **DO NOT** Close The Installer And Make Sure To Wait The 5 Seconds Or By Pressing Any Key To Continue
-7. If You Didt Do Step 6 You Can Open `install.bat` And Follow Threw Step 6 Again Or Manually Delete The Install.bat If It Doesnt Delete Itself
+7. If You Didt Do Step 6 You Can Open `install.bat` And Follow Threw Step 6 Again Or Manually Delete The `install.bat` If It Doesnt Delete Itself
 8. Open main.py And Have Fun Obfuscating Your Batch Scripts So Its Protected From The Skids!
 
 
