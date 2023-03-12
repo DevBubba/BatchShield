@@ -97,6 +97,7 @@ All Notable Changes To Batch-Obfuscator (This Project) Will Be Documented In Thi
 
 ## 🧾 <a id="lisence"></a> License
 
+### This is for educational purposes only, use at your own risk, I am not responsible for any of your actions!
 ### Batch-Obfuscator is licensed under the <a href="https://mit-license.org/.">MIT License</a>
 
 
