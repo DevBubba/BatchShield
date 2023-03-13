@@ -1,20 +1,20 @@
 <img src="img/FourthPreview.png" width="100%" height="100%" />
 
 <div align="center">
-    <img src="https://img.shields.io/github/languages/top/DevBubba/Batch-Obfuscator?color=%23000000">
-    <img src="https://img.shields.io/github/stars/DevBubba/Batch-Obfuscator?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/languages/top/DevBubba/BatchShield?color=%23000000">
+    <img src="https://img.shields.io/github/stars/DevBubba/BatchShield?color=%23000000&logoColor=%23000000">
     <br>
-    <img src="https://img.shields.io/github/commit-activity/w/DevBubba/Batch-Obfuscator?color=%23000000"> 
-    <img src="https://img.shields.io/github/last-commit/DevBubba/Batch-Obfuscator?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/commit-activity/w/DevBubba/BatchShield?color=%23000000"> 
+    <img src="https://img.shields.io/github/last-commit/DevBubba/BatchShield?color=%23000000&logoColor=%23000000">
     <br>
-    <img src="https://img.shields.io/github/issues/DevBubba/Batch-Obfuscator?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/issues-closed/DevBubba/Batch-Obfuscator?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues/DevBubba/BatchShield?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues-closed/DevBubba/BatchShield?color=%23000000&logoColor=%23000000">
     <br>
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 
-# <a id="description"></a> 🔒 〢 Batch Obfuscator
+# <a id="description"></a> 🔒 〢 BatchShield
 
 
 ### Simple And Easy Batch Obfuscator Made In Python V3.11.2 For Your Daily Use With Batch To Just Make Things Easy On Yourself Making Sure The Real Code Is Hidden From Skids Or Anyone Else Using Your Batch Script!
@@ -58,12 +58,12 @@
 ### <a id="prerequisites"></a> 💻 〢 Prerequisites
 
 -   Windows 7/10/11
--   **[Python](https://www.python.org)**
+-   **[Python V3.0.0 And Above](https://www.python.org)**
 
 
 ### <a id="setup"></a> ⚙️ Setup
 
-1. Download The Source Code **[Here](https://github.com/DevBubba/Batch-Obfuscator/archive/refs/heads/main.zip)** Or Your Prefered Version
+1. Download The Source Code **[Here](https://github.com/DevBubba/BatchShield/archive/refs/heads/main.zip)** Or Your Prefered Version
 2. Extract Source Code
 3. Make Sure Python Is Installed If Not Install It **[Here](https://www.python.org/downloads/release/python-3112/)**
 4. Run `install.bat` To Install The Required Requirements For The Batch Obfuscator To Function Properly
@@ -86,7 +86,7 @@
 
 ## <a id="changelog"></a> 📚 〢 Changelog 
 
-All Notable Changes To Batch-Obfuscator (This Project) Will Be Documented In This [File](https://github.com/DevBubba/Batch-Obfuscator/blob/main/CHANGELOG.md)
+All Notable Changes To BatchShield (This Project) Will Be Documented In This [File](https://github.com/DevBubba/Batch-Obfuscator/blob/main/CHANGELOG.md)
 
 
 ## <a id="bugsorerrors"></a> ⚠️ Bugs Or Errors?
@@ -98,7 +98,7 @@ All Notable Changes To Batch-Obfuscator (This Project) Will Be Documented In Thi
 ## 🧾 <a id="lisence"></a> License
 
 ### This is for educational purposes only, use at your own risk, I am not responsible for any of your actions!
-### Batch-Obfuscator is licensed under the <a href="https://mit-license.org/.">MIT License</a>
+### BatchShield is licensed under the <a href="https://mit-license.org/.">MIT License</a>
 
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
