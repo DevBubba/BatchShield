@@ -36,13 +36,13 @@
 
 ## <a id="features"></a> 🔰 〢 Features
 
-- `Auto Deletes Install Batch File (.bat) To Ensure That No Other Batch Files Are Reconized By The Batch Obfuscator`🟢
+- `Auto Deletes Install Batch File (.bat) To Ensure That No Other Batch Files Are Reconized By BatchShield`🟢
 - `Allow Custom Path To Batch File (.bat)`🟢
 - `Auto Checks If All Required Modules Are Installed`🟢
 - `Auto Detect Batch File (.bat)`🟢
 - `Multiple Obfuscation Choices`🟢
 - `Custom Obfuscated Batch File Name (.bat) (Output File Name)`🟡
-- `Exe (Executable File) Version Of The Batch Obfuscator (Compiled Version)`🟡
+- `Exe (Executable File) Version Of BatchShield (Compiled Version)`🟡
 - `Choose File AutoDetect Has Found`🟡
 - `Fix Obfuscation Method 2's Bugs`🟡
 - `Auto Update`🟡
@@ -66,8 +66,8 @@
 1. Download The Source Code **[Here](https://github.com/DevBubba/BatchShield/archive/refs/heads/main.zip)** Or Your Prefered Version
 2. Extract Source Code
 3. Make Sure Python Is Installed If Not Install It **[Here](https://www.python.org/downloads/release/python-3112/)**
-4. Run `install.bat` To Install The Required Requirements For The Batch Obfuscator To Function Properly
-5. If The Installer Doesnt Workproperly Or Doesnt Install The Requirements Needed For The Batch Obfuscator A Fix To This Can Be Executing This Command `pip install -r requirements.txt` Which Can Be An Alternate Way To Install The Requirements Properly
+4. Run `install.bat` To Install The Required Requirements For BatchShield To Function Properly
+5. If The Installer Doesnt Workproperly Or Doesnt Install The Requirements Needed For BatchShield A Fix To This Can Be Executing This Command `pip install -r requirements.txt` Which Can Be An Alternate Way To Install The Requirements Properly
 6. After The Installer Is Finished And You Are Prompted With `Succsesfully Installed Requirements` **DO NOT** Close The Installer And Make Sure To Wait The 5 Seconds Or By Pressing Any Key To Continue
 7. If You Didt Do Step 6 You Can Open `install.bat` And Follow Threw Step 6 Again Or Manually Delete The `install.bat` If It Doesnt Delete Itself
 8. Open main.py And Have Fun Obfuscating Your Batch Scripts So Its Protected From The Skids!
