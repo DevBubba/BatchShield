@@ -1,6 +1,6 @@
-# 📚 〢 Batch Obfuscator Changelog
+# 📚 〢 BatchShield Changelog
 
-### All Notable Changes To Batch-Obfuscator (This Project) Will Be Documented In This File
+### All Notable Changes To BatchShield (This Project) Will Be Documented In This File
 
 ## 🔒 [Batch-Obfuscator V2.1](https://github.com/DevBubba/Batch-Obfuscator/releases/tag/V2.1) - 2023-03-11
 
@@ -14,7 +14,7 @@
 
 ## 🔨 Fixed
 
-- Nothing (initial commit)
+- Nothing
 
 
 ## 🛠️ Changed
@@ -24,7 +24,7 @@
 
 ## 🗑️ Removed
 
-- Nothing (initial commit)
+- Nothing
 
 
 ## ✍️ To Do
