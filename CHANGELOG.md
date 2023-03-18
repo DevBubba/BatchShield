@@ -2,6 +2,44 @@
 
 ### All Notable Changes To BatchShield (This Project) Will Be Documented In This File
 
+## 🔒 [BatchSheild V2.2](https://github.com/DevBubba/Batch-Obfuscator/releases/tag/V2.2) - 2023-03-18
+
+### Simple And Easy Batch Obfuscator Made In Python V3.11.2 For Your Daily Use With Batch To Just Make Things Easy On Yourself Making Sure The Real Code Is Hidden From Skids Or Anyone Else Using Your Batch Script!
+
+## ➕ Added
+
+- Nothing
+
+
+## 🔨 Fixed
+
+- Nothing
+
+
+## 🛠️ Changed
+
+- Changed Original Name `Batch Obfuscator` To `Batch Sheild`
+- Changed Banner And Info On banner
+
+
+## 🗑️ Removed
+
+- Nothing
+
+
+## ✍️ To Do
+
+- Exe (Executable File) Version Of The Batch Obfuscator (Compiled Version)
+- Custom Obfuscated Batch File Name `(.bat)` (Output File Name)
+- Choose File AutoDetect Has Found
+- Fix Obfuscation Method 2's Bugs
+- Auto Update
+
+## 🚫 Not Working
+
+- Obfuscates More Than Just Batch Files
+- Works On MacBook Or Other Devices Other Than Windows
+
 ## 🔒 [Batch-Obfuscator V2.1](https://github.com/DevBubba/Batch-Obfuscator/releases/tag/V2.1) - 2023-03-11
 
 ### Simple And Easy Batch Obfuscator Made In Python V3.11.2 For Your Daily Use With Batch To Just Make Things Easy On Yourself Making Sure The Real Code Is Hidden From Skids Or Anyone Else Using Your Batch Script!
