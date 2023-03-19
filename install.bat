@@ -1,6 +1,6 @@
 @echo off
 color c
-title Batch Obfuscator V2.1 - Installing Requirements...
+title Batch Obfuscator V2.2 - Installing Requirements...
 
 echo.
 echo Installing Requirements...
@@ -8,7 +8,7 @@ echo.
 
 pip install -r requirements.txt
 
-title Batch Obfuscater V2.1 - Succsesfully Installed Requirements
+title Batch Obfuscater V2.2 - Succsesfully Installed Requirements
 
 echo.
 echo.
