@@ -42,6 +42,8 @@
 - `Auto Detect Batch File (.bat)`🟢
 - `Multiple Obfuscation Choices`🟢
 - `Choose File AutoDetect Has Found`🟢
+- `May Work On Other Python Version V3.0+`🟢
+- `Auto Install Missing Modules`🟢
 - `Custom Obfuscated Batch File Name (.bat) (Output File Name)`🟡
 - `Exe (Executable File) Version Of BatchShield (Compiled Version)`🟡
 - `Auto Update`🟡
