@@ -1,6 +1,6 @@
 @echo off
 color c
-title Batch Obfuscator V2.2 - Installing Requirements...
+title BatchShield V2.4 - Installing Requirements...
 
 echo.
 echo Installing Requirements...
@@ -8,11 +8,11 @@ echo.
 
 pip install -r requirements.txt
 
-title Batch Obfuscater V2.3 - Succsesfully Installed Requirements
+title BatchShield V2.4 - Succsesfully Installed Requirements
 
 echo.
 echo.
-echo Succsesfully Installed Requirements!
+echo Successfully Installed Requirements!
 echo.
 
-TIMEOUT /T 5
+pause
