@@ -44,12 +44,12 @@
 - `Choose File AutoDetect Has Found`🟢
 - `May Work On Other Python Version V3.0+`🟢
 - `Auto Install Missing Modules`🟢
-- `Custom Obfuscated Batch File Name (.bat) (Output File Name)`🟡
+- `Custom Obfuscated Batch File Name (.bat) (Output File Name)`🟢
 - `Exe (Executable File) Version Of BatchShield (Compiled Version)`🟡
-- `Auto Update`🟡
+- `Auto Update Tool`🟡
 - `Add More Obfuscation Methods`🟡
 - `Obfuscates More Than Just Batch Files`🔴
-- `Works On MacBook Or Other Devices Other Than Windows`🔴
+- `Works On MacBook Or Other Devices Other Than Windows Operating Systems`🔴
 
 🟢 = Working  | 🟡 = To Do  | 🔴 = Not Working
 
