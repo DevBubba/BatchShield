@@ -39,7 +39,7 @@ header = """ :: ▄▄▄▄    ▄▄▄     ▄▄▄█████▓ ▄█
 
 
 def clear():
-    os.system('clear')
+    os.system('cls')
 
 def main():
     from colorama import Back, Fore, Style
@@ -56,6 +56,7 @@ def main():
     if auto_detect.lower() == "y":
         os.getcwd()
         bat_files = glob.glob("*.bat")
+        bat_files = [file for file in bat_files if file != "installer.bat"]
         if not bat_files:
             print(f"{Fore.RED}[-] No .Bat Files Found! {Style.RESET_ALL}")
             print(f"{Fore.RED}[-] Exiting... {Style.RESET_ALL}")
