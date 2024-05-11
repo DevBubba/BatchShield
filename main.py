@@ -49,8 +49,7 @@ def main():
     clear()
     print(fade.fire(banner))
     
-    auto_detect = input('{:<27}: '.format(
-        f"{Fore.YELLOW}[+] AutoDetect .Bat Files [Y/N] {Style.RESET_ALL}"))
+    auto_detect = input('{:<27}: '.format(f"{Fore.YELLOW}[+] AutoDetect .Bat Files [Y/N] {Style.RESET_ALL}"))
     path = ''
 
     if auto_detect.lower() == "y":
@@ -69,9 +68,7 @@ def main():
                 print(f"{Fore.RED}[{idx+1}] {file}{Style.RESET_ALL}")
             try:
                 selection = int(
-                    input('{:<27}: '.format(
-                        f"{Fore.YELLOW}[+] Select File [1-{len(bat_files)}] {Style.RESET_ALL}"
-                    )))
+                    input('{:<27}: '.format(f"{Fore.YELLOW}[+] Select File [1-{len(bat_files)}] {Style.RESET_ALL}")))
                 if selection < 1 or selection > len(bat_files):
                     raise ValueError
             except ValueError:
@@ -83,13 +80,10 @@ def main():
 
         else:
             path = bat_files[0]
-        print(
-            f"{Fore.GREEN}[+] Selected File - {path}{Style.RESET_ALL}"
-        )
+        print(f"{Fore.GREEN}[+] Selected File - {path}{Style.RESET_ALL}")
 
     elif auto_detect.lower() == "n":
-        path = input('{:<27}: '.format(
-            f"{Fore.YELLOW}[+] File Path Including (.bat) {Style.RESET_ALL}"))
+        path = input('{:<27}: '.format(f"{Fore.YELLOW}[+] File Path Including (.bat) {Style.RESET_ALL}"))
         os.getcwd()
         bat_files = glob.glob(path)
         if not bat_files:
@@ -106,9 +100,7 @@ def main():
         time.sleep(5)
         exit()
 
-    confirm = input('{:<27}: '.format(
-        f"{Fore.YELLOW}[+] Are You Sure You Would Like To Obfuscate {path}? [Y/N] {Style.RESET_ALL}"
-    ))
+    confirm = input('{:<27}: '.format(f"{Fore.YELLOW}[+] Are You Sure You Would Like To Obfuscate {path}? [Y/N] {Style.RESET_ALL}"))
 
     if confirm.lower() == "y":
         try:
@@ -116,14 +108,10 @@ def main():
             counter2 = 0
 
             originalFileName = path
-            customFileName = input('{:<27}: '.format(
-                f"{Fore.YELLOW}[+] Use Custom Output Filename [Y/N] {Style.RESET_ALL}"
-            ))
+            customFileName = input('{:<27}: '.format(f"{Fore.YELLOW}[+] Use Custom Output Filename [Y/N] {Style.RESET_ALL}"))
 
             if customFileName.lower() == "y":
-                outputFileName = input('{:<27}: '.format(
-                    f"{Fore.YELLOW}[+] Enter Custom OutPut Filename {Style.RESET_ALL}"
-                ))
+                outputFileName = input('{:<27}: '.format(f"{Fore.YELLOW}[+] Enter Custom OutPut Filename {Style.RESET_ALL}"))
             elif customFileName.lower() == "n":
                 outputFileName = f"{originalFileName.split('.')[0]}_obfuscated"
             else:
@@ -137,67 +125,50 @@ def main():
                     path, lel = file.split('.')
                 except:
                     pass
-                f = open(f"{outputFileName}.bat", "a")
+                f = open(f"{outputFileName}.bat", "a", encoding='utf-8')
                 f.truncate(0)
                 f.write(header)
                 f.close()
                 for line in fileobj:
                     if ":" in line:
-                        f = open(f"{outputFileName}.bat", "a")
+                        f = open(f"{outputFileName}.bat", "a", encoding='utf-8')
                         f.write(line.rstrip() + '\n')
                         f.close()
                         pass
                     for ch in line:
                         if not counter == 1:
                             if "\n" in ch:
-                                f = open(f"{outputFileName}.bat",
-                                         "a",
-                                         encoding='utf-8')
+                                f = open(f"{outputFileName}.bat", "a", encoding='utf-8')
                                 f.write(f"\n")
                                 f.close()
                             elif "%" in ch:
-
-                                f = open(f"{outputFileName}.bat",
-                                         "a",
-                                         encoding='utf-8')
+                                f = open(f"{outputFileName}.bat", "a", encoding='utf-8')
                                 f.write(f"%")
                                 f.close()
                                 counter = 1
                             else:
                                 n = random.randint(1, 10)
                                 randomi = ''.join(
-                                    random.choice(
-                                        'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
-                                    ) for _ in range(n))
-                                f = open(f"{outputFileName}.bat",
-                                         "a",
-                                         encoding='utf-8')
+                                    random.choice('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ') for _ in range(n))
+                                f = open(f"{outputFileName}.bat", "a", encoding='utf-8')
                                 f.write(f"{ch}%{randomi}%")
                                 f.close()
                         else:
                             if "%" in ch:
-                                f = open(f"{outputFileName}.bat",
-                                         "a",
-                                         encoding='utf-8')
+                                f = open(f"{outputFileName}.bat", "a", encoding='utf-8')
                                 f.write("%")
                                 f.close()
                                 counter = 0
                             elif "\n" in ch:
-                                f = open(f"{outputFileName}.bat",
-                                         "a",
-                                         encoding='utf-8')
+                                f = open(f"{outputFileName}.bat", "a", encoding='utf-8')
                                 f.write(f"\n")
                                 f.close()
                             else:
-                                f = open(f"{outputFileName}.bat",
-                                         "a",
-                                         encoding='utf-8')
+                                f = open(f"{outputFileName}.bat", "a", encoding='utf-8')
                                 f.write(ch)
                                 f.close()
 
-            print(
-                f"{Fore.GREEN}[+] Successfully Obfuscated {path}! {Style.RESET_ALL}"
-            )
+            print(f"{Fore.GREEN}[+] Successfully Obfuscated {path}! {Style.RESET_ALL}")
             print(f"{Fore.RED}[-] Exiting... {Style.RESET_ALL}")
             time.sleep(5)
             exit()
@@ -208,9 +179,7 @@ def main():
             exit()
             
     elif confirm.lower() == "n":
-        reselectFile = input('{:<27}: '.format(
-            f"{Fore.YELLOW}[+] Reselect Batch File [Y/N] {Style.RESET_ALL}"
-        ))
+        reselectFile = input('{:<27}: '.format(f"{Fore.YELLOW}[+] Reselect Batch File [Y/N] {Style.RESET_ALL}"))
 
         if reselectFile.lower() == "y":
             main()
