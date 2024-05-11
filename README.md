@@ -43,6 +43,7 @@
 - `Auto Install Missing Modules`🟢
 - `Custom Obfuscated Batch File Name (.bat) (Output File Name)`🟢
 - `Auto Update Module Installer`🟢
+- `Add Extra Obfuscation Strength`🟡
 - `Exe (Executable File) Version Of BatchShield (Compiled Version)`🟡
 - `Auto Update Tool`🟡
 - `More Obfuscation Methods/Levels`🟡
@@ -54,7 +55,11 @@
 
 ## <a id="install"></a> 📥 〢 Install
 
-
+1. Download The Source Code **[Here](https://github.com/DevBubba/BatchShield/archive/refs/heads/main.zip)** Or Your Prefered Version Of BatchShield
+2. Extract The Downloaded Source Code
+3. Make Sure Python Is Installed If Not Install It **[Here](https://www.python.org/downloads/release/python-3112/)**
+4. Done!
+   
 ### <a id="prerequisites"></a> 💻 〢 Prerequisites
 
 -   Windows 7/10/11
@@ -63,10 +68,8 @@
 
 ### <a id="setup"></a> ⚙️ Setup
 
-1. Download The Source Code **[Here](https://github.com/DevBubba/BatchShield/archive/refs/heads/main.zip)** Or Your Prefered Version
-2. Extract The Downloaded Source Code
-3. Make Sure Python Is Installed If Not Install It **[Here](https://www.python.org/downloads/release/python-3112/)**
-4. Open main.py And Have Fun Annoying Skids With Obfuscated Batch Scripts!
+1. Open installer.bat And Wait For All Required Modules To be Installed
+2. Simply Open main.py And Enjoy Obfuscating With Ease Using BatchShield!
 
 
 ## <a id="preview"></a> 📷 〢 Preview
