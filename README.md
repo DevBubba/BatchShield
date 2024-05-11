@@ -36,18 +36,16 @@
 
 ## <a id="features"></a> 🔰 〢 Features
 
-- `Auto Deletes Install Batch File (.bat) To Ensure That No Other Batch Files Are Recognized By BatchShield`🟢
-- `Allow Custom Path To Batch File (.bat)`🟢
-- `Auto Checks If All Required Modules Are Installed`🟢
-- `Auto Detect Batch File (.bat)`🟢
-- `Multiple Obfuscation Choices`🟢
-- `Choose File AutoDetect Has Found`🟢
+- `Auto Ignores Installer Batch File To Ensure That No Other Batch Files Are Recognized By BatchShield`🟢
+- `Allow Custom Input Path (.bat)`🟢
+- `Auto Detect All Batch Files (.bat)`🟢
 - `May Work On Other Python Version V3.0+`🟢
 - `Auto Install Missing Modules`🟢
 - `Custom Obfuscated Batch File Name (.bat) (Output File Name)`🟢
+- `Auto Update Module Installer`🟢
 - `Exe (Executable File) Version Of BatchShield (Compiled Version)`🟡
 - `Auto Update Tool`🟡
-- `Add More Obfuscation Methods`🟡
+- `More Obfuscation Methods/Levels`🟡
 - `Obfuscates More Than Just Batch Files`🔴
 - `Works On MacBook Or Other Devices Other Than Windows Operating Systems`🔴
 
