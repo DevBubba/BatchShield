@@ -1,4 +1,4 @@
-<img src="img/previewBanner.png" width="100%" height="100%" />
+<img src="preview banner image here" width="100%" height="100%" />
 
 <div align="center">
     <img src="https://img.shields.io/github/languages/top/DevBubba/BatchShield?color=%23000000">
@@ -75,22 +75,22 @@
 
 <div align="center">
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/BatchShieldFirstPreview.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/BatchShieldSecondPreview.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/BatchShieldThirdPreview.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/BatchShieldFourthPreview.png"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="preview image one here"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="preview image two here"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="preview image three here"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="preview image four here"></img>
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%"> 
 </div>
 
 
 ## <a id="changelog"></a> 📚 〢 Changelog 
 
-All Notable Changes To BatchShield (This Project) Will Be Documented In This [File](https://github.com/DevBubba/Batch-Obfuscator/blob/main/CHANGELOG.md)
+All Notable Changes To BatchShield (This Project) Will Be Documented In This [File](https://github.com/DevBubba/BatchShield/blob/main/CHANGELOG.md)
 
 
 ## <a id="bugsorerrors"></a> ⚠️ Bugs Or Errors?
 
--   To Report An Error Make An **[Issue](https://github.com/DevBubba/Batch-Obfuscator/issues)**
+-   To Report An Error Make An **[Issue](https://github.com/DevBubba/BatchShield/issues)**
 -   Or Join The **[Discord](https://discord.gg/6qAvAephsW)**
 
 
