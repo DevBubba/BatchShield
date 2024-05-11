@@ -39,52 +39,7 @@ header = """ :: ▄▄▄▄    ▄▄▄     ▄▄▄█████▓ ▄█
 
 
 def clear():
-    #os.system('cls')
     os.system('clear')
-    
-def init():
-    if sys.version_info < (3, 0):
-        raise Exception("BatchShield Requires Python Version 3.0 Or Greater")
-    elif sys.version_info < (3, 10):
-        print(
-            "Warning! BatchSheild Has Only Been Tested With Python 3.10, But May Work With Other Python 3 Versions!"
-        )
-
-    required_modules = ["colorama", "fade", "glob"]
-    missing_modules = []
-
-    for module in required_modules:
-        try:
-            __import__(module)
-
-        except ImportError:
-            missing_modules.append(module)
-
-    if missing_modules:
-        print(
-            "[-] Error! You Don't Have All The Required Modules Installed To Run BatchShield V2.2!"
-        )
-
-        if input(
-                "Would You Like To Automatically Install Any Missing Modules? [y/n] :  "
-        ).lower() == "y":
-
-            for module in missing_modules:
-                subprocess.call(['pip', 'install', module])
-            print(
-                "All Missing Modules Have Been Installed, Please Re-Run BatchShield!"
-            )
-            time.sleep(5)
-            exit()
-
-        else:
-            error_message = "Error Missing Module - '{module}'"
-
-            for module in missing_modules:
-                print(f"[-] {error_message.format(module=module)}")
-
-            time.sleep(5)
-            exit()
 
 def main():
     from colorama import Back, Fore, Style
@@ -274,5 +229,4 @@ def main():
         exit()
 
 if __name__ == '__main__':
-    init()
     main()
