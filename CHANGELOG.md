@@ -2,7 +2,7 @@
 
 ### All Notable Changes To BatchShield (This Project) Will Be Documented In This File
 
-## 🔒 [BatchSheild V1.0 Official Release](https://github.com/DevBubba/BatchShield/releases/tag/V1.0) - 2024-05-11
+## 🔒 [BatchSheield V1.0 Official Release](https://github.com/DevBubba/BatchShield/releases/tag/V1.0) - 2024-05-11
 
 ### Simple And Easy Batch Obfuscator Made In Python V3.11.2 For Your Daily Use With Batch To Just Make Things Easy On Yourself Making Sure The Real Code Is Hidden From Skids Or Anyone Else Using Your Batch Script!
 
