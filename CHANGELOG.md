@@ -1,38 +1,43 @@
-# 📚 〢 BatchShield Changelog
+# <a id="description"></a>📚 〢 BatchShield Changelog
 
-### All Notable Changes To BatchShield (This Project) Will Be Documented In This File
-
-## 🔒 [BatchSheield V1.0 Official Release](https://github.com/DevBubba/BatchShield/releases/tag/V1.0) - 2024-05-11
-
-### Simple And Easy Batch Obfuscator Made In Python V3.11.2 For Your Daily Use With Batch To Just Make Things Easy On Yourself Making Sure The Real Code Is Hidden From Skids Or Anyone Else Using Your Batch Script!
-
-## ➕ Added
-
-- Nothing
-
-## 🔨 Fixed
-
-- Nothing
+### All notable changes and updates to BatchShield (this project) will be carefully documented in this file. This includes bug fixes, new features, improvements, and any other modifications made to the software, providing you with a comprehensive history of the project’s evolution. Be sure to check the changelog regularly to stay informed about the latest developments.
 
 
-## 🛠️ Changed
+## <a id="content"></a>🌐 〢 Table Of Contents
 
-- Nothing
+- **[🔗 〢 Discord](https://discord.gg/6qAvAephsW)**
+- **[📖 〢 Description](#description)**
+- **[📥 〢 Download](https://github.com/DevBubba/BatchShield/releases)**
+- **[📚 〢 Changelog](https://github.com/DevBubba/BatchShield/blob/main/CHANGELOG.md)**
+  - **[🏷️ 〢 Version 1.0](#1.0)**
 
+## <a id="1.0"></a>🔒 [BatchShield V1.0](https://github.com/DevBubba/Rocket-Cleaner/releases/tag/v1.1) - 2025-02-27
 
-## 🗑️ Removed
+### ➕ Added
 
-- Nothing
+- Nothing (init commit).
 
+### 🔨 Fixed
 
-## ✍️ To Do
+- Nothing (init commit).
 
-- Add Extra Obfuscation Strength
-- Exe (Executable File) Version Of BatchShield (Compiled Version)
-- Auto Update Tool
-- More Obfuscation Methods/Levels
+### 🛠️ Changed
 
-## 🚫 Not Working
+- Nothing (init commit).
 
-- Obfuscates More Than Just Batch Files
-- Works On MacBook Or Other Devices Other Than Windows Operating Systems
+### 🗑️ Removed
+ 
+- Nothing (init commit).
+
+### ✍️ To Do
+
+- Nothing (init commit).
+
+### 🚫 Not Working
+
+- Nothing (init commit).
+  
+### 📝 Notes
+
+- Nothing (init commit).
+- Report any bugs or issues on the GitHub **[Issues Page](https://github.com/DevBubba/BatchShield/issues)**.
