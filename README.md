@@ -1,6 +1,9 @@
-<img src="img/previewImage.png" width="100%" height="100%" />
+<div align="center">
+    <img src="img/Logo.png" width="35%" height="35%" />
+</div>
 
 <div align="center">
+    <br>
     <img src="https://img.shields.io/github/languages/top/DevBubba/BatchShield?color=%23000000">
     <img src="https://img.shields.io/github/stars/DevBubba/BatchShield?color=%23000000&logoColor=%23000000">
     <br>
@@ -10,28 +13,33 @@
     <img src="https://img.shields.io/github/issues/DevBubba/BatchShield?color=%23000000&logoColor=%23000000">
     <img src="https://img.shields.io/github/issues-closed/DevBubba/BatchShield?color=%23000000&logoColor=%23000000">
     <br>
+    Made with ❤️💻 by DevBubba
 </div>
+
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 
 # <a id="description"></a> 🔒 〢 BatchShield
-
 
 ### Simple And Easy Batch Obfuscator Made In Python V3.11.2 For Your Daily Use With Batch To Just Make Things Easy On Yourself Making Sure The Real Code Is Hidden From Skids Or Anyone Else Using Your Batch Script!
 
 
 ## <a id="content"></a>🌐 〢 Table Of Contents
 
+- **[🔗 〢 Discord](https://discord.gg/6qAvAephsW)**
 - **[📖 〢 Description](#description)**
 - **[🔰 〢 Features](#features)**
-- **[🔗 〢 Discord](https://discord.gg/6qAvAephsW)**
+- **[💻 〢 Prerequisites](#prerequisites)**
 - **[📥 〢 Install](#install)**
-  - **[💻 〢 Prerequisites](#prerequisites)**
-  - **[⚙ 〢 Setup](#setup)**
+- **[❓ 〢 FAQ](#faq)**
 - **[📷 〢 Preview](#preview)**
+- **[📝 〢 Notes](#notes)**
 - **[📚 〢 Changelog](#changelog)**
-- **[⚠️ 〢 Bugs Or Errors](#bugsorerrors)**
+- **[❌ 〢 Bugs Or Errors](#bugsorerrors)**
+  - **[⚠️ 〢 Disclaimer](#disclaimer)**
+- **[🤝 〢 Code Of Conduct](#codeofconduct)**
 - **[🧾 〢 Lisence](#lisence)**
+- **[🛠️ 〢 Contributing](#contributing)**
 
 
 ## <a id="features"></a> 🔰 〢 Features
